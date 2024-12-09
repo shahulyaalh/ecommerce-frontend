@@ -6,7 +6,7 @@ export default function Header({cartItems=[]}){
     <div className="col-12 col-md-3">
       <div className="navbar-brand">
         <Link to={'/'}>
-        <img width="120px" src=" /images/logo-1.png" />
+        <img width="120px" src=" /images/logo1.png" />
         </Link>
       </div>
     </div>
